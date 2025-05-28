@@ -1,4 +1,3 @@
-
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
 Este projeto tem como objetivo oferecer uma ferramenta prática, desenvolvida em Excel, para simular investimentos em Fundos Imobiliários. A planilha permite ao usuário visualizar o crescimento do patrimônio ao longo do tempo, com base em aportes mensais, taxa de rendimento e tempo de investimento.
@@ -34,14 +33,14 @@ Simula o valor recebido mensalmente com base no patrimônio acumulado e na taxa 
 Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo aporte.
 
 
-📂 Estrutura do Projeto
+#### 📂 Estrutura do Projeto
 
--📁 simulador-fii-excel
-    ├── Simulador_FII.xlsx
+📁 simulador-fii-excel
+#    ├── Simulador_FII.xlsx
        ├── README.md
        └    ── images/
-                         ├── grafico1.png
-                                           └── grafico2.png
+       ├── grafico1.png
+                     └── grafico2.png
     
 🚀 Como Usar
 Baixe o arquivo Simulador_FII.xlsx.
