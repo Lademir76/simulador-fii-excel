@@ -18,16 +18,19 @@ Este projeto tem como objetivo oferecer uma ferramenta prática, desenvolvida em
   - Dividendos mensais
 - Gráficos de evolução do patrimônio e dos dividendos.
 - Interface amigável e personalizável.
-📈 Fórmulas Utilizadas (continuação)
-2. Total Investido
+
+📈 Fórmulas Utilizadas
+
+Total Investido
+
 Soma de todos os aportes mensais realizados durante o período.
 
 
-3. Dividendos Mensais
+Dividendos Mensais
 Simula o valor recebido mensalmente com base no patrimônio acumulado e na taxa de dividendos dos FIIs.
 
 
-4. Evolução Mensal do Patrimônio
+ Evolução Mensal do Patrimônio
 Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo aporte.
 
 
