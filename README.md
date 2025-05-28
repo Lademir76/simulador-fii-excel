@@ -42,12 +42,15 @@ Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo apo
     
 🚀 Como Usar
 Baixe o arquivo Simulador_FII.xlsx.
+
 Abra no Excel.
 Preencha os campos de entrada (aporte, tempo, taxa).
 Veja os resultados e gráficos atualizarem automaticamente.
+
 🧾 Licença
 Este projeto é de uso livre para fins educacionais.
 
 ✍️ Autor
+
 Desenvolvido por Lademir Salomão Bechara.
 Projeto realizado como parte do desafio da DIO - Digital Innovation One.
