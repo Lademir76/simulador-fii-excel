@@ -44,6 +44,7 @@ Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo apo
 Baixe o arquivo Simulador_FII.xlsx.
 
 Abra no Excel.
+
 Preencha os campos de entrada (aporte, tempo, taxa).
 Veja os resultados e gráficos atualizarem automaticamente.
 
