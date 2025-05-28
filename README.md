@@ -32,12 +32,14 @@ Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo apo
 
 
 📂 Estrutura do Projeto
+
 📁 simulador-fii-excel
 ├── Simulador_FII.xlsx
 ├── README.md
 └── images/
     ├── grafico1.png
     └── grafico2.png
+    
 🚀 Como Usar
 Baixe o arquivo Simulador_FII.xlsx.
 Abra no Excel.
