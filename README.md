@@ -18,3 +18,34 @@ Este projeto tem como objetivo oferecer uma ferramenta prática, desenvolvida em
   - Dividendos mensais
 - Gráficos de evolução do patrimônio e dos dividendos.
 - Interface amigável e personalizável.
+📈 Fórmulas Utilizadas (continuação)
+2. Total Investido
+Soma de todos os aportes mensais realizados durante o período.
+
+
+3. Dividendos Mensais
+Simula o valor recebido mensalmente com base no patrimônio acumulado e na taxa de dividendos dos FIIs.
+
+
+4. Evolução Mensal do Patrimônio
+Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo aporte.
+
+
+📂 Estrutura do Projeto
+📁 simulador-fii-excel
+├── Simulador_FII.xlsx
+├── README.md
+└── images/
+    ├── grafico1.png
+    └── grafico2.png
+🚀 Como Usar
+Baixe o arquivo Simulador_FII.xlsx.
+Abra no Excel.
+Preencha os campos de entrada (aporte, tempo, taxa).
+Veja os resultados e gráficos atualizarem automaticamente.
+🧾 Licença
+Este projeto é de uso livre para fins educacionais.
+
+✍️ Autor
+Desenvolvido por Lademir Salomão Bechara.
+Projeto realizado como parte do desafio da DIO - Digital Innovation One.
