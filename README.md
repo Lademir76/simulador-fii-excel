@@ -65,5 +65,5 @@ Este projeto é de uso livre para fins educacionais.
 ## ✍️ Autor
 
 Desenvolvido por Lademir Bechara
- # Projeto realizado como parte do desafio da DIO - Digital Innovation One.
+ ### Projeto realizado como parte do desafio da DIO - Digital Innovation One.
 
