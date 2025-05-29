@@ -35,12 +35,12 @@ Soma de todos os aportes mensais realizados durante o período.
 ### 3. Dividendos Mensais
 Simula o valor recebido mensalmente com base no patrimônio acumulado e na taxa de dividendos dos FIIs.
 
-=patrimônio * taxa_dividendos
+=patrimônio * tx_dividendos
 
 ### 4. Evolução Mensal do Patrimônio
 Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo aporte.
 
-=valor_mês_anterior * (1 + taxa)  + aporte
+=valor_mês_anterior * (1 + tx )  + aporte
 
 ## 📂 Estrutura do Projeto
 
@@ -55,7 +55,7 @@ Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo apo
 
 1. Baixe o arquivo `Simulador_FII.xlsx`.
 2. Abra no Excel.
-3. Preencha os campos de entrada (aporte, tempo, taxa).
+3. Preencha os campos de entrada (aporte, tempo, tx ).
 4. Veja os resultados e gráficos atualizarem automaticamente.
 
 ## 🧾 Licença
