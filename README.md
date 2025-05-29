@@ -40,7 +40,7 @@ Simula o valor recebido mensalmente com base no patrimônio acumulado e na taxa 
 ### 4. Evolução Mensal do Patrimônio
 Atualiza o valor do patrimônio mês a mês com base no rendimento e no novo aporte.
 
-=valor_mês_anterior * (1 + taxa) + aporte
+=valor_mês_anterior * (1 + taxa)  + aporte
 
 ## 📂 Estrutura do Projeto
 
