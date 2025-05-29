@@ -25,7 +25,7 @@ A planilha utiliza fórmulas financeiras do Excel para simular o crescimento do 
 ### 1. Valor Futuro (VF)
 Calcula o valor acumulado ao final do período de investimento, considerando aportes mensais e uma taxa de rendimento constante.
 
-=VF(taxa; períodos; -aporte)
+=VF(tx; períodos; -aporte)
 
 ### 2. Total Investido
 Soma de todos os aportes mensais realizados durante o período.
